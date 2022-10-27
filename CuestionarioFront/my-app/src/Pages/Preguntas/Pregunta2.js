@@ -38,17 +38,17 @@ const opciones= [
   {
     id:7,
     txtPregunta: "op111",
-    idPregunta:5
+    idPregunta:8
   },
   {
     id:8,
     txtPregunta: "op222",
-    idPregunta:5
+    idPregunta:8
   },
   {
     id:9,
     txtPregunta: "op333",
-    idPregunta:5
+    idPregunta:8
   }
 ]
 
